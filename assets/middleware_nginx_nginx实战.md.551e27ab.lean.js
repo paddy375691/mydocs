@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t}from"./chunks/framework.504067c4.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"middleware/nginx/nginx实战.md","filePath":"middleware/nginx/nginx实战.md"}'),a={name:"middleware/nginx/nginx实战.md"};function r(i,o,d,s,c,_){return n(),t("div")}const l=e(a,[["render",r]]);export{p as __pageData,l as default};
