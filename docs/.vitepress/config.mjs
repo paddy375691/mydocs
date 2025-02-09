@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'HomeHome', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Python', link: '/python/django_drf'}
     ],
 
     sidebar: [
