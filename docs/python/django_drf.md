@@ -477,9 +477,7 @@ class BookDetailView(RetrieveUpdateDestroyAPIView):
 - 原因是： 路由分发的时候，同一个get不能对应在一个类里面，必须分开在两个类
 - viewset就是解决这个问题，通过对as_view的重写，对路由分发进行映射，可以映射到指定的方法中
 
-
-
-![image-20250210202829635](C:/Users/37569/AppData/Roaming/Typora/typora-user-images/image-20250210202829635.png)
+![image-20250210230206403](https://markdown-demo.obs.cn-east-3.myhuaweicloud.com/image-20250210230206403.png)
 
 ```python
 # views.py
