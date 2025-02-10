@@ -372,7 +372,7 @@ class BookView(GenericAPIView):
 
 对于BookDetailView，由于 get_object 是具名路由，这里做一点改造： 
 
-![image-20250210200028079](C:/Users/37569/AppData/Roaming/Typora/typora-user-images/image-20250210200028079.png)
+![image-20250210225949286](https://markdown-demo.obs.cn-east-3.myhuaweicloud.com/image-20250210225949286.png)
 
 ![image-20250210200046042](https://markdown-demo.obs.cn-east-3.myhuaweicloud.com/image-20250210200046042.png)
 
