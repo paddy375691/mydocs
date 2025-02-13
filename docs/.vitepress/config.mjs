@@ -10,7 +10,13 @@ export default defineConfig({
     nav: [
       { text: 'HomeHome', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: 'Python', link: '/python/django_drf'}
+      { text: 'Python', items: [
+        {text:'drf基础', link: '/python/django_drf'},
+        {text:'drf常用组件', link: '/python/drf_component'}
+      ]},
+      { text: 'Vue', items: [
+        { text: 'CSS', link: '/vue/css_base'}
+      ]}
     ],
 
     sidebar: [
